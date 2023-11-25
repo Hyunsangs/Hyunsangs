@@ -2,9 +2,15 @@
 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyunsang_Github👋&fontSize=70)
   <hr />
+
+  
   **중부대학교** 고양캠퍼스
+  
   **FrontEnd 예비개발자**
+  
   **멋쟁이사자처럼11기🦁**
+
+
   
   ### 📚Tech Stack
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
@@ -22,6 +28,8 @@
   <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsangs&show_icons=true&theme=shadow_red)
 </div>
