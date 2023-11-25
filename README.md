@@ -2,10 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyunsang_Github👋&fontSize=70)
   <hr />
-  #####중부대학교 고양캠퍼스
-  게임소프트웨어학과
+  **중부대학교** 고양캠퍼스
+  **FrontEnd 예비개발자**
+  **멋쟁이사자처럼11기🦁**
   
-  ### Tech Stack
+  ### 📚Tech Stack
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
   <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -16,10 +17,12 @@
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=black"/>
 
-  ### Tools
-  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=black"/>
-  <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=black"/>
-  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=black"/>
-  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=black"/>
+  ### ⚒️Tools
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsangs&show_icons=true&theme=shadow_red)
 </div>
     
